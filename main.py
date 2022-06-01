@@ -1,5 +1,1 @@
-print("new aiogram app")
-print("311114")
-print("dada")
-print("da131313ada")
-print("311313")
+print("hello")
