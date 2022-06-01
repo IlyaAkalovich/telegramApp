@@ -1,2 +1,2 @@
 print("new aiogram app")
-print('Maasdasdasdadsx')
+print('MaxSavko')
