@@ -1,1 +1,1 @@
-print("new ilya app")
+print("new aiogram app")
