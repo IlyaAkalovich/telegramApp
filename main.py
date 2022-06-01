@@ -1,1 +1,1 @@
-print("new telegram app")
+print("new aiogram app")
